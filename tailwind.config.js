@@ -2,8 +2,11 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      maxWidth: {
+        main: "1600px",
+      },
+    },
   },
   plugins: [],
-}
-
+};

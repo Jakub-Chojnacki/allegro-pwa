@@ -1,6 +1,6 @@
 <template>
   <section class="bg-[#222222] text-white">
-    <div class="max-w-[1600px] mx-auto px-4 py-16">
+    <div class="max-w-main mx-auto px-4 py-16">
       <div
         class="bg-orange-500 flex flex-col md:flex-row items-center justify-between overflow-hidden"
       >
